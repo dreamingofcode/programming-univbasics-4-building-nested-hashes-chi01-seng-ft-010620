@@ -25,9 +25,9 @@ def monopoly_with_third_tier
         :four_pieces_owned=>200},
       :names=>{
         :reading_railroad=>{"mortgage value"=>"$100"},
-        :pennsylvania_railroad=>{"mortgage value"=>"200"},
-        :b_and_o_railroad=>{"mortgage value"=>""},
-        :shortline_railroad=>{"mortgage value"=>""}
+        :pennsylvania_railroad=>{"mortgage value"=>"$200"},
+        :b_and_o_railroad=>{"mortgage value"=>"$400"},
+        :shortline_railroad=>{"mortgage value"=>"$800"}
         
       }
   }
